@@ -1,0 +1,5 @@
+<view class="container">
+  <image src="/images/wannafly.jpg" class="about-banner"></image>
+  <text>My flag</text>
+  <text>My meet up</text>
+</view>

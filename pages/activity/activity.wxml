@@ -1,0 +1,4 @@
+<view class="container">
+  <navigator url="/pages/sponsor/sponsor">发起活动</navigator>
+  <text>查看活动</text>
+</view>

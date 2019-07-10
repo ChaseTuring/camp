@@ -1,0 +1,4 @@
+.about-banner{
+  width: 600rpx;
+  height: 400rpx;
+}

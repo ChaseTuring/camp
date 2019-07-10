@@ -1,0 +1,33 @@
+{
+  "pages":["pages/activity/activity","pages/flag/flag",
+            "pages/meet up/meet up","pages/about/about","pages/sponsor/sponsor"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/activity/activity",
+        "text": "活动",
+        "iconPath": "images/activity.png",
+        "selectedIconPath": "images/activity2.png"
+      },
+      {
+        "pagePath": "pages/flag/flag",
+        "text": "flag",
+        "iconPath": "images/flag.png",
+        "selectedIconPath": "images/flag2.png"
+      },
+      {
+        "pagePath": "pages/meet up/meet up",
+        "text": "约会",
+        "iconPath": "images/meet up.png",
+        "selectedIconPath": "images/meet up2.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "我的",
+        "iconPath": "images/my.png",
+        "selectedIconPath": "images/my2.png"
+      }
+    ]
+  }
+}

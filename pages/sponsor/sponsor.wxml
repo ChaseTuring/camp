@@ -1,0 +1,10 @@
+<form bindsubmint="formSubmint" bindreset="formReset" class="container">
+  <text>发起活动\n</text>
+  <text>时间</text>
+  <input class="text"></input>
+  <text>地点</text>
+  <input class=""></input>
+  <text>活动描述</text>
+  <input class="text"></input>
+  <button>提交</button>
+</form>
